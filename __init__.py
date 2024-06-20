@@ -1,1 +1,1 @@
-import stopwords
+from .stopwords import *
